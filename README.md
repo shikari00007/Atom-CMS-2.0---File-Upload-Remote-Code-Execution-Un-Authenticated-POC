@@ -10,3 +10,4 @@ Remote Code Execution (RCE)
 * file in uploads directory with unique number, which allows us to access Webshell.
 * Usage : python3 exploit.py <IP> <Port> <atomcmspath>
 * Example: python3 exploit.py 127.0.0.1 80 /atom
+* POC: https://youtu.be/qQrq-eEpswc
